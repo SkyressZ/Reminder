@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_action_alarms" />
+    <drawable name="ic_action_back" />
+    <drawable name="ic_action_save" />
+    <drawable name="ic_action_new" />
+    <drawable name="ic_action_edit" />
+    <drawable name="ic_action_discard" />
+</resources>
